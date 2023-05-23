@@ -1,2 +1,2 @@
 # versionskontrolle
-Mario Osmakcic testtest
+Mario Osmakcic test
