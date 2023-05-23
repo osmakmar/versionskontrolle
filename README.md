@@ -16,4 +16,4 @@ Timon Schneider Test4
 
 Test 5 Timon
 
-Test 6 Timon Schneider
+Test 7 Merge Conflict Timon
