@@ -16,4 +16,3 @@ Timon Schneider Test4
 
 Test 5 Timon
 
-Test 6 Timon Schneider
